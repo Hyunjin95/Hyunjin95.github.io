@@ -32,5 +32,12 @@
         "extensions": [".jsx", ".tsx"]
       }
     ]
+  },
+  "settings": {
+    "import/resolver": {
+      "node": {
+        "extensions": [".js", ".jsx", ".ts", ".tsx"]
+      }
+    }
   }
 }
