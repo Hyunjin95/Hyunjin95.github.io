@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{QeBL:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),l=n.n(a),r=n("+o6H"),u=n("PzA8");t.default=function(){return l.a.createElement(l.a.Fragment,null,l.a.createElement(u.a,{title:"About me"}),l.a.createElement(r.a,null,l.a.createElement("h1",null,"구현 중입니다..ㅠㅠ")))}}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-be724240eeb1261f5de4.js.map
